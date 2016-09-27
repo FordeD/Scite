@@ -13,6 +13,8 @@
 ; Do not remove these lines.
 ; Добавлен SA-MP-UDF-Addon by [CM}MurKotik
 ; VK: http://vk.com/id350689538
+; Добавлен SA-MP-UDF-Addon by McFree
+; VK: https://vk.com/mcfreeman
 ; ####################
 
 ; SAMP-RP CHat Colors
