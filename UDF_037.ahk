@@ -1299,13 +1299,6 @@ UpdateServerData()
 }
 
 ; ##### Sa-mp-udf-addon by McFree #####
-IsInAFK() {
-    res := ProcessReadMemory(0xBA6748 + 0x5C, "gta_sa.exe")
-    WinGet, win, MinMax, GTA:SA:MP
-    if ((res=0) and (win=-1)) or res=1
-        return 1
-    return 0
-}
 MoveVision(xv,yv,zv) 
 { 
 m := getCoordinates() 
